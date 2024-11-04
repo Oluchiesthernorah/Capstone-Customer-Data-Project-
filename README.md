@@ -9,17 +9,17 @@
 ## HOW TO USE THE DATA
 ## FORMULA USED
 ## TOOLS AND METHODS USED
-FORMULA USED
-TOOLS AND METHODS USED
-VISUAL ANALYSIS AND INFERENCE
-INFERENCE
+## FORMULA USED
+## TOOLS AND METHODS USED
+## VISUAL ANALYSIS AND INFERENCE
+## INFERENCE
 
 
-OVERVIEW
+## OVERVIEW
 
 This project collects and analyses Customer data from various regions, Subscription start,  subscription end, order cancelled and Revenue. The goal is to provide insights into revenue, subscription type, start and end over different Region. The analysis focuses on understanding revenue trends and subscription performance across regions, start and end subscription and also to calculate key metrics such as Average Subscription duration, most popular subscription type, average sales and total revenue.
 
-DATA COLLECTED
+## DATA COLLECTED
 
 The dataset include:
 
@@ -39,8 +39,7 @@ Canceled: The particular number of subscription either continued or stopped
 
 Revenue: The total monetary value generated from the sale.
 
-
-PROJECT OBJECTIVES
+## PROJECT OBJECTIVES
 
 This project aimed at analyzing the following:
 
@@ -54,7 +53,7 @@ Revenue by subscription type: Determine the sum of Revenue by subscription type
 
 Subscription Duration by subscription type: Determine how long each subscription stayed
 
-KEY METRICS
+## KEY METRICS
 
 Revenue: Sum of the Revenue column, grouped by region.
 
@@ -64,26 +63,33 @@ Subscription Start: Start of subscription by Subscription type
 
 Subscription End: End of subscription by Subscription type
 
-HOW TO USE THE DATA
+## HOW TO USE THE DATA
 
 Total sales by Region: Group the data by region and sum the total sales column. This provides an overview of how much each region is generating
 
 Total Sales by Subscription type: Group the revenue by Subscription type and sum the units sold to identify which subscription is being used the most.
 
+## FORMULA USED
 
-FORMULA USED
 Subscription Duration = Subscription End – Subscription Start
 
-TOOLS AND METHODS USED
+## TOOLS AND METHODS USED
 
 Data Analysis. The data was analyzed using Microsoft Excel, SQL and Power BI utilizing Pivot Tables to organize, summarize, design and filter the data for easier interpretation.
 
 Data Visualization: Charts were created in Excel, and Power BI to visually represent the key insights.
 
-VISUAL ANALYSIS AND INFERENCE
+## VISUAL ANALYSIS AND INFERENCE
 
 Revenue by Region
-  Pivot Table:
+ ## Excel
+ Pivot Table:
+
+
+## SQL
+
+
+## Power BI
 
 INFERENCE:
 
