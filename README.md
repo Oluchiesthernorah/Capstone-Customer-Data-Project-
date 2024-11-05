@@ -1,5 +1,3 @@
-# Capstone-Customer-Data-Project-
-
 # PROJECT: CAPSTONE CUSTOMER DATA ANALYSIS PROJECT
 
 [OVERVIEW](#overview)
