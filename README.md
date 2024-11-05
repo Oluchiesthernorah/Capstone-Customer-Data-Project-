@@ -74,8 +74,9 @@ Total sales by Region: Group the data by region and sum the total sales column. 
 Total Sales by Subscription type: Group the revenue by Subscription type and sum the units sold to identify which subscription is being used the most.
 
 ## FORMULA USED
-
+```
 Subscription Duration = Subscription End – Subscription Start
+```
 
 ## TOOLS AND METHODS USED
 
