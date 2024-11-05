@@ -10,13 +10,15 @@
 
 [KEY METRICS](#key-metrics)
 
-[HOW TO USE THE DATA]
-## FORMULA USED
-## TOOLS AND METHODS USED
-## FORMULA USED
-## TOOLS AND METHODS USED
-## VISUAL ANALYSIS
-## INFERENCE
+[HOW TO USE THE DATA](#how-to-use-the-data)
+
+[FORMULA USED](#formula-used)
+
+[TOOLS AND METHODS USED](#tools-and-methods-used)
+
+[VISUAL ANALYSIS](#visual-analysis)
+
+[INFERENCE](#inference)
 
 
 ## OVERVIEW
