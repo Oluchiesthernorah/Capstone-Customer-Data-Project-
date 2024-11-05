@@ -7,13 +7,15 @@
 [DATA COLLECTED](#data-sources)
 
 [PROJECT OBJECTIVES](#project-objective)
-## KEY METRICS
-## HOW TO USE THE DATA
+
+[KEY METRICS](#key-metrics)
+
+[HOW TO USE THE DATA]
 ## FORMULA USED
 ## TOOLS AND METHODS USED
 ## FORMULA USED
 ## TOOLS AND METHODS USED
-## VISUAL ANALYSIS AND INFERENCE
+## VISUAL ANALYSIS
 ## INFERENCE
 
 
@@ -81,7 +83,7 @@ Data Analysis. The data was analyzed using Microsoft Excel, SQL and Power BI uti
 
 Data Visualization: Charts were created in Excel, and Power BI to visually represent the key insights.
 
-## VISUAL ANALYSIS AND INFERENCE
+## VISUAL ANALYSIS
 
 Revenue by Region
  ### Excel
