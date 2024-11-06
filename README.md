@@ -141,7 +141,11 @@ It was deduced that the month with the highest total sales is February, which me
 
 Regional Performance:
 
-The sum of Revenue is 67,540,175. The subscription type that was highly petronised is the Basic Subscription, followed by the Premium Subscription and then the Standard Subscription. The East Region had 25.11%, followed by South region with 25.02% , then the West region with 24.97%, finally the North region with 24.9%. 
+The East Region had 25.11%, followed by South region with 25.02% , then the West region with 24.97%, finally the North region with 24.9%.
+
+The sum of Revenue is 67,540,175. The subscription type that was highly petronised is the Basic Subscription, followed by the Premium Subscription and then the Standard Subscription. 
+
+ 
 
 
 
