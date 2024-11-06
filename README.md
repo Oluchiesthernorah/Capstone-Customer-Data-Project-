@@ -137,7 +137,7 @@ Chart
 
 **Overall Revenue Trends:**
 
-The sum of Revenue is 67,540,175. The subscription type that was highly petronised is the Basic Subscription with 50.01% amounting to 34m , followed by the Premium Subscription with 25.02% amounting and then the Standard Subscription. 
+The sum of Revenue is 67,540,175. The subscription type that was highly petronised is the Basic Subscription with 50.01% amounting to 34m , followed by the Premium Subscription with 25.02% amounting to 17m and then the Standard Subscription with 24.97% amounting to 17m. 
 
 
 **Regional Performance:**
