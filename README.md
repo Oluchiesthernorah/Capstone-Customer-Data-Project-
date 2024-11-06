@@ -142,10 +142,5 @@ The sum of Revenue is 67,540,175. The subscription type that was highly petronis
 
 **Regional Performance:**
 
-The East Region had 25.11%, followed by South region with 25.02% , then the West region with 24.97%, finally the North region with 24.9%.
-
-
- 
-
-
+The East Region had 25.11%, followed by South Region with 25.02% , then the West Region with 24.97%, finally the North Region with 24.9%.
 
