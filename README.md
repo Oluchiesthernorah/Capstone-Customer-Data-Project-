@@ -137,7 +137,10 @@ Chart
 
 Overall Revenue Trends:
 
-
+It was deduced that the month with the highest total sales is February, which means that in the month of February, the sales was massive
 
 Regional Performance:
+The sum of Revenue is 67,540,175. the subscription type that was highly petronise is the Basic Subscription, followed by the Premium and then the Standard. the East Region had 25.11%, followed by South region with 25.02% , then the West region with 24.97%, finally the North region with 24.9%. 
+
+
 
